@@ -1,0 +1,25 @@
+% Q
+A
+B
+C
+D
+E
+% Sigma
+0
+1
+% F
+B
+E
+% Q0
+A
+% Delta
+A E B
+A E D
+B 1 B
+B 0 C
+C 1 C
+C 0 B
+D 1 E
+D 0 D
+E 0 E
+E 1 D

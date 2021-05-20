@@ -1,0 +1,23 @@
+% Q
+A
+B
+C
+D
+E
+F
+G
+% Sigma
+0
+1
+% F
+ABCFG
+BCEFG
+% Q0
+ABCFG
+% Delta
+ABCFG 0 D
+ABCFG 1 ABCFG
+D 0 BCEFG
+D 1 D
+BCEFG 0 D
+BCEFG 1 BCEFG
